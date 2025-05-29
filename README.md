@@ -22,3 +22,4 @@
 ### 我们站在巨人的肩膀上 ❤️ 为了看见更远的星空!
 
 </div>
+<img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/bars.gif" width="25" alt="动效" />
