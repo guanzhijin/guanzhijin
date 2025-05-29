@@ -1,11 +1,12 @@
 ## 👋 你好, 我是[关志金](https://github.com/guanzhijin/)
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ### 欢迎您的到来!
 - 🔭 &nbsp; 目前在UCAS攻读学位, 专注于特征值问题的研究<br>
 - 🚀 &nbsp; 持续探索仿真和计算的交叉领域<br>
 - 💡 &nbsp; 坚信"修行之道, 贵在坚持"的技术哲学
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
 ### 🌱 近期关注
