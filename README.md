@@ -8,7 +8,7 @@
 ### ✨ 欢迎您的到来!
 _" 算法即诗行, 代码即修行 "_
 
-### <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/Hi.gif" width="20" alt="学术动效" /> 你好, 我是[关志金](https://github.com/guanzhijin/)
+### <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/Hi.gif" width="25" alt="学术动效" /> 你好, 我是[关志金](https://github.com/guanzhijin/)
 - 🚀 &nbsp; 目前在UCAS攻读学位
 - 🔬 &nbsp; 方向: `偏微分方程数值解` | `特征值问题数值算法` | `建模与仿真`  
 - 💡 &nbsp; 坚信 " **修行之道, 贵在坚持** " 的技术哲学
