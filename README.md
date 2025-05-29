@@ -1,5 +1,6 @@
 ## 👋 你好, 我是[关志金](https://github.com/guanzhijin/)
 
+<img align="right" height="250" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/main/gifs/coder.gif">
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### ✨ 欢迎您的到来!
