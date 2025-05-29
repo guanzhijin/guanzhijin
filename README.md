@@ -1,4 +1,9 @@
 ## 👋 你好, 我是[关志金](https://github.com/guanzhijin/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/emoji.gif" width="80" alt="学术动效"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=4000&color=447FF7&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%2C%20%E6%88%91%E6%98%AF%E5%85%B3%E5%BF%97%E9%87%91" alt="动态标题">
+</p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.gif" />
 
