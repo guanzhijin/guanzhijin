@@ -20,6 +20,6 @@
 <div align="center">
 
 ### 我们站在巨人的肩膀上 ❤️ 为了看见更远的星空!
+<img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/bars.gif" width="1000" alt="动效" />
 
 </div>
-<img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/bars.gif" width="25" alt="动效" />
