@@ -1,6 +1,6 @@
-## Hey there 👋, I'm [Gaun.](https://github.com/guanzhijin/)
+## 👋 你好, 我是[关志金](https://github.com/guanzhijin/)
 
-### Glad to see you here! 
+### 欢迎来到我的技术空间!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
