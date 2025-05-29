@@ -1,6 +1,6 @@
 ## 👋 你好, 我是[关志金](https://github.com/guanzhijin/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/main/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.gif" />
 
 ### ✨ 欢迎您的到来!
 _" 算法即诗行, 代码即修行 "_
