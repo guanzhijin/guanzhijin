@@ -5,7 +5,7 @@
 🚀 持续探索仿真和计算的交叉领域<br>
 💡 坚信"修行之道, 贵在坚持"的技术哲学
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/main/profile.png" alt="dino.gif" />
+<img align="right" height="200" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/main/master/gifs/dino.gif" />
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
