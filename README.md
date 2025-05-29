@@ -3,15 +3,15 @@
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### ✨ 欢迎您的到来!
+_"算法即诗行，代码即修行"_
+
+### 🔭 科研方向
+`偏微分方程数值解` | `特征值问题数值算法` | `建模和仿真`  
 - 🔭 &nbsp; 目前在UCAS攻读学位, 专注于特征值问题的研究<br>
 - 🚀 &nbsp; 持续探索仿真和计算的交叉领域<br>
 - 💡 &nbsp; 坚信"修行之道, 贵在坚持"的技术哲学
 
-### 🔭 科研方向
-`偏微分方程数值解` | `特征值问题数值算法` | `建模和仿真`  
 
-### 📚 技术哲学  
-_"算法即诗行，代码即修行"_
 
 ### 🌱 近期关注
 - 💻 &nbsp; 机器学习基础理论与实践
