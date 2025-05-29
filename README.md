@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/emoji.gif" width="80" alt="学术动效" />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=4000&color=447FF7&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%2C%20%E6%88%91%E6%98%AF%E5%85%B3%E5%BF%97%E9%87%91" alt="动态标题">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=4000&color=447FF7&center=true&vCenter=true&width=500&height=70&lines=%e2%9c%a8+%e6%ac%a2%e8%bf%8e%e6%82%a8%e7%9a%84%e5%88%b0%e6%9d%a5!" alt="动态标题">
 </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.gif" />
@@ -8,7 +8,7 @@
 ### ✨ 欢迎您的到来!
 _" 算法即诗行, 代码即修行 "_
 
-### <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/Hi.gif" width="25" alt="学术动效" /> 你好, 我是[关志金](https://github.com/guanzhijin/)
+### <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/Hi.gif" width="25" alt="动效" /> 你好, 我是[关志金](https://github.com/guanzhijin/)
 - 🚀 &nbsp; 目前在UCAS攻读学位
 - 🔬 &nbsp; 方向: `偏微分方程数值解` | `特征值问题数值算法` | `建模与仿真`  
 - 💡 &nbsp; 坚信 " **修行之道, 贵在坚持** " 的技术哲学
