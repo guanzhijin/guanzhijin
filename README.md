@@ -7,12 +7,11 @@
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/main/master/gifs/dino.gif" />
 
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
+
+### 🌱 近期关注
+- 💻 &nbsp; 机器学习基础理论与实践
+- 📰 &nbsp; 高性能计算与分布式系统
+- 🍕 &nbsp; 开源社区协作与项目管理
 
 Like My Work?
 
