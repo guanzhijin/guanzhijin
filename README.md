@@ -5,17 +5,13 @@
 - 🚀 &nbsp; 持续探索仿真和计算的交叉领域<br>
 - 💡 &nbsp; 坚信"修行之道, 贵在坚持"的技术哲学
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/main/master/gifs/dino.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
 ### 🌱 近期关注
 - 💻 &nbsp; 机器学习基础理论与实践
 - 📰 &nbsp; 高性能计算与分布式系统
 - 🍕 &nbsp; 开源社区协作与项目管理
-
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 
 
 #
