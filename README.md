@@ -3,7 +3,7 @@
 </p>
 
 <video autoplay loop muted playsinline width="375" height="250">
-  <source src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.mp4" type="coder.mp4">
+  <source src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.mp4">
 </video>
 
 
