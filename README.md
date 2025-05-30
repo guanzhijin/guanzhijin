@@ -15,15 +15,6 @@
 - 🔭 &nbsp; 高性能计算
 - 🍕 &nbsp; 项目管理与协作
 
-<div align="center" style="margin: 30px 0;">
-  <div style="
-    display: inline-block;
-    font-size: 80px;
-    animation: wave 1.2s infinite ease-in-out;
-    transform-origin: 70% 80%;
-  ">👋</div>
-</div>
-
 #
 
 <div align="center">
