@@ -17,7 +17,6 @@
 - 🍕 &nbsp; 项目管理与协作
 
 <div class="wave-hand">👋</div>
-
 <style>
   .wave-hand {
     display: inline-block;
@@ -25,7 +24,6 @@
     animation: wave 1s infinite ease-in-out;
     transform-origin: bottom center;
   }
-
   @keyframes wave {
     0%, 100% {
       transform: rotate(0deg);
