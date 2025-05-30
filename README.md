@@ -17,18 +17,13 @@
 - 🍕 &nbsp; 项目管理与协作
 
 <div align="center">
-  <div style="display:inline-block;font-size:48px;
-              animation:wave 1.2s infinite ease-in-out;
-              transform-origin:70% 80%;">👋</div>
+  <div style="
+    display: inline-block;
+    font-size: 48px;
+    animation: wave 1.2s infinite ease-in-out;
+    transform-origin: 70% 80%;
+  ">👋</div>
 </div>
-<style>
-  @keyframes wave {
-    0%,100% { transform:rotate(0) }
-    25% { transform:rotate(25deg) }
-    50% { transform:rotate(0) }
-    75% { transform:rotate(-15deg) }
-  }
-</style>
 
 
 #
