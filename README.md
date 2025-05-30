@@ -7,7 +7,7 @@
   <source src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.mp4" type="video/mp4">
 </video>
 
-### <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/Hi.gif" width="25" alt="动效" /> 您好, 我是[关至今](https://github.com/guanzhijin/)
+### <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/Hi.gif?sanitize=true" width="25" alt="动效" /> 您好, 我是[关至今](https://github.com/guanzhijin/)
 - 🚀 &nbsp; 目前在UCAS攻读学位
 - 🔬 &nbsp; 方向: `偏微分方程数值解` | `特征值问题数值算法` | `建模与仿真`  
 - 💡 &nbsp; 坚信 " **修行之道, 贵在坚持** " 的技术哲学
