@@ -16,24 +16,19 @@
 - 🔭 &nbsp; 高性能计算
 - 🍕 &nbsp; 项目管理与协作
 
-<div class="wave-hand">👋</div>
+<div align="center">
+  <div style="display:inline-block;font-size:48px;
+              animation:wave 1.2s infinite ease-in-out;
+              transform-origin:70% 80%;">👋</div>
+</div>
 <style>
-  .wave-hand {
-    display: inline-block;
-    font-size: 50px;
-    animation: wave 1s infinite ease-in-out;
-    transform-origin: bottom center;
-  }
   @keyframes wave {
-    0%, 100% {
-      transform: rotate(0deg);
-    }
-    50% {
-      transform: rotate(20deg);
-    }
+    0%,100% { transform:rotate(0) }
+    25% { transform:rotate(25deg) }
+    50% { transform:rotate(0) }
+    75% { transform:rotate(-15deg) }
   }
 </style>
-
 
 
 #
